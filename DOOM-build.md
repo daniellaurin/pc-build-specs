@@ -1,4 +1,4 @@
-# DOOM: The Dark Ages - PC Build Analysis
+# 🔥 DOOM: The Dark Ages - PC Build Analysis 🔥
 
 <p align="center">
   <img src="/images/slayer.png" width="196" height="196" />
@@ -34,6 +34,9 @@ Based on the official DOOM: The Dark Ages specifications, there are three tiers 
 | RAM | 16GB | 32GB | 32GB |
 | Storage | 512GB NVMe SSD (100GB available) | 512GB NVMe SSD (100GB available) | 512GB NVMe SSD (100GB available) |
 
+
+
+
 <div style="text-align:center;">
 
 ![doom-dark-ages.jpg](/images/doom-dark-ages.jpg)
@@ -58,6 +61,12 @@ The build considers two AMD Ryzen CPUs:
 | Price/Performance | Better | - | 5700X |
 | Socket | AM4 | AM5 | 7700X (future upgrades) |
 
+<div style="text-align:center;">
+
+![specs-cpu](/images/5700x-7700x.png)
+
+</div>
+
 **Analysis:** While the 7700X offers 17% better performance, the 5700X provides significantly better value. For DOOM's requirements, the 5700X meets the recommended (AMD Zen 3 with 8 cores/16 threads) at nearly half the cost of the 7700X. But the big con it's AM4 socket which makes it much less upgradable in the future.
 
 ### 🕹️ GPU Comparison
@@ -75,13 +84,19 @@ Comparing the RX 6800 with the RX 7800-XT:
 | Price (as shown) | $1,025 | Not listed | - |
 | Current Market Price | ~$480-550 | ~$550-600 | 6800 |
 
+<div style="text-align:center;">
+
+![specs-gpu](/images/6800-7800xt.png)
+
+</div>
+
 **Analysis:** The RX 6800 is fully capable for the recommended requirements (ray tracing-capable GPU with 10GB VRAM) and actually exceeds them with its 16GB VRAM. The 7800-XT is 25% faster and costs more but, better bang for you buck when it comes to raw $ to frame. 
 
 ## 🖥 Recommended Build
 
 Based on the analysis:
 
-💡 *Note* this is not considering if these parts are available or factoring any discount 
+> 💡 **Note**: this is not considering if these parts are available or factoring any discount 
 
 
 | Component | Item | Price (CAD) | Hell-ready Rating |
@@ -94,7 +109,7 @@ Based on the analysis:
 | GPU | XFX Speedster SWFT 319 RX 6800 16GB | $548.90 | 🔥🔥🔥🔥🔥 |
 | Case | SAMA V40 ATX Mid Tower | $128.24 | 🔥🔥 |
 | Power Supply | MSI MAG A650GL 650W 80+ Gold | $109.99 | 🔥🔥 |
-| **TOTAL DAMAGE** | | **$1,572.15** | 💰💰💰💰 |
+| **TOTAL DAMAGE** |https://ca.pcpartpicker.com/list/y4LZPJ | **$1,572.15** | 💰💰💰💰 |
 
 ## 💰 Budget Considerations
 
