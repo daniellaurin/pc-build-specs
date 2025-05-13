@@ -1,5 +1,9 @@
 # DOOM: The Dark Ages - PC Build Analysis
 
+<p align="center">
+  <img src="/images/slayer.png" width="196" height="196" />
+</p>
+
 ## 📋 Table of Contents
 - [Introduction](#introduction)
 - ⚠️ [Game Requirements](#game-requirements)
@@ -29,6 +33,12 @@ Based on the official DOOM: The Dark Ages specifications, there are three tiers 
 | GPU | Ray tracing-capable with 8GB VRAM<br>(RTX 2060 SUPER or RX 6600) | Ray tracing-capable with 10GB VRAM<br>(RTX 3080 or RX 6800) | Ray tracing-capable with 16GB VRAM<br>(RTX 4080 or RX 7900XT) |
 | RAM | 16GB | 32GB | 32GB |
 | Storage | 512GB NVMe SSD (100GB available) | 512GB NVMe SSD (100GB available) | 512GB NVMe SSD (100GB available) |
+
+<div style="text-align:center;">
+
+![doom-dark-ages.jpg](/images/doom-dark-ages.jpg)
+
+</div>
 
 ## ⚔️ Hardware Analysis
 
